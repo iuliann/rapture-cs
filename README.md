@@ -13,7 +13,7 @@ Coding standard for rapture components.
 ## Install
 
 ```
-composer install iuliann/rapture-cs
+composer require iuliann/rapture-cs
 ```
 
 ## Intro

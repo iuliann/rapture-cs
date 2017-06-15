@@ -1,5 +1,5 @@
 {
-  "name": "iuliann/rapture-form",
+  "name": "iuliann/rapture-cs",
   "description": "Rapture PHP coding standard component",
   "keywords": ["library"],
   "homepage": "http://rapture.iuliann.ro",
@@ -10,5 +10,8 @@
       "homepage": "http://iuliann.ro",
       "role": "Developer"
     }
-  ]
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  }
 }
